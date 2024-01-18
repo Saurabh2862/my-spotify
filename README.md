@@ -18,6 +18,7 @@ This is how clone look <a href="https://spotify-krcpr007.vercel.app/" target="_b
    * It can Play music ▶️
    * Sync with spotify player 📲
    * Your playlists are listed 📃
+   * Happy Music
 
 
 
